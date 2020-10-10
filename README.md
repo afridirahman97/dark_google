@@ -2,4 +2,4 @@
 
 ### [Click Here To View The Live Site](https://clone-58b84.web.app/)
 
-![Tuition Media](https://firebasestorage.googleapis.com/v0/b/githubs-30fab.appspot.com/o/screencapture-tuition-6b9fb-web-app-2020-09-16-19_54_54.png?alt=media&token=aa2d804b-a570-4f9d-b5d1-d43ed8c3c195)
+![Google-clone](https://firebasestorage.googleapis.com/v0/b/githubs-30fab.appspot.com/o/screencapture-clone-58b84-web-app-2020-10-10-22_27_08.png?alt=media&token=551758d5-cca8-406e-9fb7-496bb5839327)
